@@ -5,7 +5,7 @@
 //  Created by leacode on 2018/1/8.
 //
 
-import UIKit
+import Vapor
 
 class User: NSObject {
 
